@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Narek
+# Hi,
 
 💻 Computer Science Student  
 🐍 Python • C • C++  
